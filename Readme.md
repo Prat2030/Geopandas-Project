@@ -1,4 +1,4 @@
-# Assignment
+# Project Details
 
 The assignment contains two datasets:
 
@@ -6,9 +6,8 @@ The assignment contains two datasets:
 
 2. Occurances of Fires in 2017
 
-A boiletplate code has been given to you in a file called Analysis.ipynb. You can make use of it or do analysis on your own.
-
-Tasks:
+## We are solving some of the questions given below
+### Libraries used in this :
 
 1. Do a spatial join on two datasets such that each fire occurance has state information (Look for sjoin in geopandas documentation)
 
