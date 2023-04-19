@@ -37,7 +37,9 @@ The assignment contains two datasets:
 
 10. Which State had highest number of fires for the month in question 9?
 
-Data Dictionary for important columns:
+
+
+### Data Dictionary for important columns:
 
 US States:
 
@@ -55,23 +57,8 @@ IG_DATE - Datetime
 
 ACRES - Acres Burnt
 
-Libraries:
 
-It is advised to create a ***new virtual environment with python 3.10***.
-
-You'll be primarily using two libraries
-
-1. geopandas : Pandas for geospatial data.
-
-2. gspatial-plot : A Seaborn like plotting interface for geopandas
-
-You can also use any other library of your choice.
-
-Note: Installing gspatial-plot will also install geopandas. gspatial-plot is in beta, if you are having any problems with it, you can report it to us, you can do all the analysis using geopandas only but gspatial-plot will simplify the process.
-
-`pip install gspatial-plot`
-
-Resources:
+### Resources:
 
 Geopandas Documentation: [Documentation &#8212; GeoPandas 0.12.2+0.gefcb367.dirty documentation](https://geopandas.org/en/stable/docs.html)
 
