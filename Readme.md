@@ -6,8 +6,16 @@ The assignment contains two datasets:
 
 2. Occurances of Fires in 2017
 
+## Libraries used in this :
+- Geopandas
+- Gspatial-plot
+- Pandas
+- Matplotlib
+- Seaborn
+- Mplleaflet
+
 ## We are solving some of the questions given below
-### Libraries used in this :
+
 
 1. Do a spatial join on two datasets such that each fire occurance has state information (Look for sjoin in geopandas documentation)
 
